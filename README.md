@@ -85,10 +85,6 @@ Los resultados corresponden a la ejecución registrada en `notebook\_final.ipynb
 
 |Modelo|MAE (MW)|RMSE (MW)|MAPE|
 |-|-:|-:|-:|
-|Naïve estacional|272.96|361.59|10.03%|
-|SARIMAX|437.91|501.81|17.67%|
-|Prophet|280.06|344.54|10.31%|
-|Random Forest|239.46|296.85|8.46%|
 |MLP|**153.17**|**192.53**|**5.66%**|
 |XGBoost|221.01|275.52|7.82%|
 |SVR|181.54|251.36|6.24%|
